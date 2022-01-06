@@ -1,12 +1,12 @@
-### Hi there 👋
+### Olá 👋
 
-- 🔭 I am currently working with my personal portfolio.
-- 🌱 I'm currently learning Javascript.
-- 💬 Ask me about my studies and learning.
-- 📫 How to reach me: gesaiasalvessouza@gmail.com
+- 🔭 Atualmente estou trabalhando com meu portfólio pessoal.
+- 🌱 Atualmente estou aprendendo VueJS.
+- 💬 Pergunte-me sobre meus estudos e aprendizado.
+- 📫 Como entrar em contato comigo: gesaiasalvessouza@gmail.com
 
-- about me:
-I'm at the beginning of my journey, learning a lot and always looking for new opportunities and learning, even if the subject is complex, I want to understand and learn. open mind to new experiences.
+-sobre mim:
+Estou no início da minha jornada, aprendendo muito e sempre em busca de novas oportunidades e aprendendo, mesmo que o assunto seja complexo, quero entender e aprender. mente aberta para novas experiências.
 
 <div align="center">
   <a href="https://github.com/Gesaias">
