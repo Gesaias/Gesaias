@@ -1,7 +1,7 @@
 ### Olá 👋
 
-- 🔭 Atualmente estou trabalhando com meu portfólio pessoal.
-- 🌱 Atualmente estou aprendendo VueJS.
+- 🔭 Trabalhando em projetos FullStack Mobile no momento.
+- 🌱 Evoluindo e aprendendo em FullStack.
 - 💬 Pergunte-me sobre meus estudos e aprendizado.
 - 📫 Como entrar em contato comigo: gesaiasalvessouza@gmail.com
 
@@ -15,13 +15,19 @@ Estou no início da minha jornada, aprendendo muito e sempre em busca de novas o
 </div>
   
 <div style="display: inline_block"><br>
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+  <img align="center" alt="Ts" src="https://img.icons8.com/color/40/000000/typescript.png"/>    
   <img align="center" alt="VueJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Dart" src="https://img.icons8.com/color/40/000000/dart.png"/>
+  <img align="center" alt="Flutter" src="https://img.icons8.com/color/38/000000/flutter.png"/>
+  <img align="center" alt="Ruby" src="https://img.icons8.com/color/40/000000/ruby-programming-language.png"/>
+  <img align="center" alt="Rails" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-rails-a-server-side-web-application-framework-written-in-ruby-logo-color-tal-revivo.png"/>
+  <img align="center" alt="Node" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
   <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Postgres" src="https://img.icons8.com/color/38/000000/postgreesql.png"/>
   
 </div>
   
