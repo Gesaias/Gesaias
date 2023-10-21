@@ -4,6 +4,7 @@
 - 🌱 Em constante evolução.
 - 💬 Pergunte-me sobre minhas tecnologias favoritas.
 - 📫 Como entrar em contato comigo:
+  - Site: https://youthful-colden-6f77e1.netlify.app/
   - E-mail: gesaiasalvessouza@gmail.com
   - Linkedin: https://www.linkedin.com/in/gesaias-alves/
 - sobre mim:
