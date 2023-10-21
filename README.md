@@ -3,8 +3,9 @@
 - 🔭 Trabalhando em projetos FullStack Mobile/Web e Cloud.
 - 🌱 Em constante evolução.
 - 💬 Pergunte-me sobre minhas tecnologias favoritas.
-- 📫 Como entrar em contato comigo: gesaiasalvessouza@gmail.com
-
+- 📫 Como entrar em contato comigo:
+  - E-mail: gesaiasalvessouza@gmail.com
+  - Linkedin: https://www.linkedin.com/in/gesaias-alves/
 - sobre mim:
 Sou Desenvolvedor FullStack Mobile e Web e tenho experiência com planejamento e prototipação de aplicações, liderança de projetos e entrega de produto de software. Também tenho experiência com containers Docker, Clusters Kubernetes, VMWare, Figma e PenPot. Tabalho em equipe e busco sempre estar estudando novas tecnologias, atualizações e implementações, busco aperfeiçoar minha base e agregar mais conhecimento.
 
