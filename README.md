@@ -40,5 +40,3 @@ Estou no início da minha jornada, aprendendo muito e sempre em busca de novas o
   <a href="https://www.linkedin.com/in/gesaias-alves-80b66a169/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
     <a href="https://t.me/gesaiasalves" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
 </div>
-  
-  ![Snake animation](https://github.com/Gesaias/Gesaias/blob/output/github-contribution-grid-snake.svg)
