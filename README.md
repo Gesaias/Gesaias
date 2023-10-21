@@ -1,12 +1,12 @@
 ### Olá 👋
 
-- 🔭 Trabalhando em projetos FullStack Mobile no momento.
-- 🌱 Evoluindo e aprendendo em FullStack.
-- 💬 Pergunte-me sobre meus estudos e aprendizado.
+- 🔭 Trabalhando em projetos FullStack Mobile/Web e Cloud.
+- 🌱 Em constante evolução.
+- 💬 Pergunte-me sobre minhas tecnologias favoritas.
 - 📫 Como entrar em contato comigo: gesaiasalvessouza@gmail.com
 
 -sobre mim:
-Estou no início da minha jornada, aprendendo muito e sempre em busca de novas oportunidades, mesmo que o assunto seja complexo, quero entender e aprender. mente aberta para novas experiências.
+Sou Desenvolvedor FullStack Mobile e Web e tenho experiência com planejamento e prototipação de aplicações, liderança de projetos e entrega de produto de software. Também tenho experiência com containers Docker, Clusters Kubernetes, VMWare, Figma e PenPot. Tabalho em equipe e busco sempre estar estudando novas tecnologias, atualizações e implementações, busco aperfeiçoar minha base e agregar mais conhecimento.
 
 <div align="center">
   <a href="https://github.com/Gesaias">
