@@ -1,6 +1,6 @@
 ### Olá Amigo 👋
 
-- 🔭 Trabalhando em projetos FullStack Mobile/Web e Cloud.
+- 🔭 Trabalhando em projetos FullStack Mobile/Web Pleno e Cloud.
 - 🌱 Em constante evolução.
 - 💬 Pergunte-me sobre minhas tecnologias favoritas.
 - 📫 Como entrar em contato comigo:
