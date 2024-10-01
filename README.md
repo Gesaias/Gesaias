@@ -1,4 +1,4 @@
-### Olá, sou o Gesaias e sou Desenvolvedor FullStack Web e Mobile Pleno! 👋
+### Olá, sou o Gesaias, Desenvolvedor FullStack Web e Mobile Pleno! 👋
 
 ## 🧑🧑🏻‍💻 Um pouquinho sobre mim:
 <div>
