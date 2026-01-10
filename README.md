@@ -1,79 +1,158 @@
-### Olá, sou o Gesaias, Desenvolvedor FullStack Web e Mobile Pleno! 👋
+# Gesaias Alves | Desenvolvedor FullStack Sênior
 
-## 🧑🧑🏻‍💻 Um pouquinho sobre mim:
-<div>
-  <p>
-    👨‍💻 Sou um Desenvolvedor FullStack com 8 anos de experiência em TI, especializado nos últimos 4 anos em desenvolvimento de software para plataformas <strong>mobile</strong> e <strong>web</strong>. Tenho uma sólida experiência em desenvolvimento front-end e back-end, além de infraestrutura em nuvem com Docker e Kubernetes.
+**6+ anos criando soluções web e mobile** que resolvem problemas reais de grande escala.  
+Especializado em sistemas complexos com **React/Next.js**, **Flutter**, **NestJS** e infraestrutura moderna.
 
-Minha trajetória inclui:
+📍 Rondônia, Brasil → 🎯 **Buscando oportunidades em Curitiba**  
+💼 Atualmente: Dev FullStack Sênior @ Pública Serviços RO
 
-- <strong>Desenvolvimento de Software</strong>: 💻 Criação de aplicações escaláveis e adaptáveis utilizando tecnologias modernas.
-- <strong>Infraestrutura em Nuvem</strong>: ☁️ Experiência com Docker e Kubernetes para gerenciar e orquestrar contêineres.
-- <strong>Virtualização e Redes</strong>: 🌐 Conhecimento em VMware VPS e redes, garantindo ambientes de desenvolvimento eficientes.
-- <strong>Liderança de Projetos</strong>: 📈 Atuação como líder de projetos em organizações governamentais, com forte habilidade em metodologias ágeis, planejamento estratégico e integração de sistemas.
+---
 
-🚀 Sou apaixonado por inovação tecnológica e estou sempre em busca de oportunidades que desafiem minhas habilidades e contribuam para o crescimento organizacional. Comprometido com a entrega de alta qualidade, estou pronto para enfrentar novos desafios e colaborar em projetos inovadores.
-  </p>  
-</div>
+## 🎯 O que eu faço (e faço bem)
 
-<br>
+- **Desenvolvimento Full-Cycle:** Do Figma ao deploy em produção, dominando frontend, backend, mobile e DevOps
+- **Sistemas Governamentais de Grande Escala:** Portal de Transparência de Rondônia (~6M de linhas alteradas), atendendo todos os municípios do estado
+- **Autonomia e Entrega:** Liderei projeto complexo estagnado há 2 anos, entregando em 10 meses com 97% de participação
+- **Cloud & DevOps:** Docker, Kubernetes, CI/CD gerenciando infraestrutura crítica em produção
 
-## 👨🧑🏻‍💻🚀 Minhas Tecnologias  
-  
-<div style="display: inline_block; padding: 5px 5px;">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
-  <img align="center" alt="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
-  <img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align="center" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img align="center" alt="VueJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-  <img align="center" alt="TailwindCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="Ruby On Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" />
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
-  <img align="center" alt="NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img align="center" alt="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
-  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-</div><br>
+---
 
-## 🏆 Cursos
+## 💻 Stack Principal
 
-| Descrição                             | Instituição    | Ano  | Tipo      | Status    |
-| ------------------------------------- | -------------- | ---- | --------- | --------- |
-| 🏅 Engenharia de Software             | Unopar         | 2024 | Superior  | Cursando  |
-| 🏅 Desenvolvimento Mobile com Flutter | Alura          | 2020 | Curso     | Concluído |
-| 🏅 Programador Web FullStack          | Programador BR | 2019 | Curso     | Concluído |
+**Frontend & Mobile**  
+`React` `Next.js 14` `Remix` `InertiaJS` `React Native` `Flutter` `TypeScript` `TailwindCSS`
 
-<br>
+**Backend & APIs**  
+`NestJS` `Node.js` `.NET 8` `Laravel` `Django` `Ruby on Rails` `PostgreSQL` `MySQL`
 
-## 🌐 Minhas Redes Sociais
-  
-<div> 
-  <a href="https://devcenterhub.com" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
-  <a href="mailto:gesaiasalvessouza@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/gesaias_alves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gesaias-alves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=5569992921994&text=Ol%C3%A1%20venho%20do%20Git-Hub%2C%20voc%C3%AA%20est%C3%A1%20dispon%C3%ADvel%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-</div>
+**DevOps & Infra**  
+`Docker` `Kubernetes` `CI/CD` `Linux` `VMware` `Evolution API` `Rancher`
 
-<br>
+**Ferramentas**  
+`Git/GitHub` `Figma` `Prisma` `TypeORM` `Redux` `Jest` `Cypress` `Swagger`
 
-## ⚙️ Estatísticas GitHub
+---
+
+## 🚀 Projetos Destacados
+
+### 🏛️ Portal de Transparência de Rondônia (2025)
+Sistema estadual de transparência pública atendendo **todos os municípios de Rondônia**.
+- **Stack:** React, Laravel, InertiaJS, PostgreSQL
+- **Escala:** ~6 milhões de linhas de código modificadas/adicionadas
+- **Impacto:** Projeto estava parado há 2 anos. Assumi 97% do desenvolvimento e entreguei em 10 meses
+- **Desafios superados:** Integração com múltiplos sistemas legados, performance com grandes volumes de dados, compliance com leis de transparência
+
+### 🏦 Sistema de Visualização Bancária (2025)
+Plataforma para controle financeiro de instituições públicas com integração bancária em tempo real.
+- **Stack:** Remix.js, NestJS, PostgreSQL
+- **Prazo:** 2 semanas (desenvolvimento completo)
+- **Features:** Dashboard de transações, relatórios automáticos, integração com APIs bancárias
+
+### 🤖 Robô de Automação WhatsApp (2025)
+Sistema de controle automatizado de sessões TypeBot com Evolution API.
+- **Stack:** NestJS, Evolution API, TypeBot
+- **Prazo:** 4 dias (desenvolvimento completo)
+- **Features:** Gerenciamento manual e automático de sessões, integração com regras de negócio customizadas
+
+### 📊 Sistema de Relatórios Embarcados (2025)
+Modernização completa do sistema de emissão de relatórios para órgãos públicos.
+- **Stack:** Pascal (sistema legado), integração com novos módulos
+- **Prazo:** 3 semanas
+- **Impacto:** Padronizou emissão de relatórios em todos os sistemas internos
+
+### 🎁 Plataforma de Gamificação Social (2024)
+Sistema de ranqueamento e premiação com integração Facebook/Instagram.
+- **Stack:** React Native, NestJS, APIs Meta (Facebook/Instagram)
+- **Prazo:** 5 meses
+- **Features:** Sorteios automatizados, ranking por engajamento, sistema de pontos e premiações para engenheiros e funcionários de venda imobiliária.
+
+### 🦟 Sistema de Controle de Dengue (2023)
+Plataforma para monitoramento e campanhas de combate à dengue.
+- **Stack:** Flutter, Node.js, PostgreSQL
+- **Features:** Mapeamento de focos, gestão de campanhas, notificações para agentes de saúde
+- **Impacto:** Facilitou controle epidemiológico e organização de campanhas preventivas
+
+### 📱 App de Sorteios Públicos - Nota Legal (2022)
+Aplicativo mobile e painel administrativo para sorteios da população municipal.
+- **Stack:** Flutter, Ruby on Rails, Node.js
+- **Features:** Sistema de cadastro, validação, sorteio randomizado, painel de controle
+- **Impacto:** Digitalizou processo que era manual, aumentando transparência e segurança, aumento de arrecadações e motivação de emissão fiscal em compras.
+
+### 🔐 Infraestrutura, Integrações, Sistemas Internos e SSO Corporativo (2022-2024)
+Implementação de autenticação unificada e automação de infraestrutura.
+- **Stack:** LDAP, SSO, Docker, Kubernetes, scripts de automação
+- **Escopo:** Integração de bases de usuários, rede sistematizada e automatizada, CI/CD
+- **Impacto:** Centralizou autenticação em 15+ sistemas, reduzindo suporte em 40%
+
+---
+
+## 📈 Experiência Profissional
+
+**Desenvolvedor FullStack Sênior** | Pública Serviços RO  
+*Fevereiro 2025 - Atual*
+- Foco 100% em desenvolvimento (diferente da equipe que divide com suporte)
+- Delivery do Portal de Transparência de RO após 2 anos de stagnação
+- Desenvolvimento de 4 projetos simultâneos em stacks variadas
+- Stack principal: React Native, ReactJS, Laravel, InertiaJS, Remix, NestJS, Pascal
+
+**Desenvolvedor FullStack Pleno** | eNe Soluções *(Home Office)*  
+*Novembro 2024 - Fevereiro 2025 (5 meses)*
+- Desenvolvimento de plataforma de gamificação com integração Meta (FB/IG)
+- Manutenção e evolução de sistemas de clientes em produção
+- Stack: React Native, ReactJS, NestJS, APIs de terceiros
+- **Saída:** Layoff da empresa
+
+**Desenvolvedor FullStack Pleno** | Prefeitura Municipal de Jaru  
+*Fevereiro 2022 - Novembro 2024 (2 anos e 9 meses)*
+- Criação de suite completa de sistemas internos para reduzir dependência de fornecedores
+- Responsável por infraestrutura em nuvem (Docker, Kubernetes) e DevOps
+- Liderança técnica de projetos críticos para o município
+- Stack: .NET 8, Flutter, React, Docker, Kubernetes, PostgreSQL, MySQL
+
+**Desenvolvedor Freelancer**  
+*2019 - 2022*
+- Desenvolvimento de aplicações web e mobile para clientes diversos
+- Inicio da experiência com tecnologias modernas (React, Node.js, Flutter)
+
+---
+
+## 🎓 Formação
+
+**Análise e Desenvolvimento de Sistemas** | Unopar (Cursando)
+
+---
+
+## 💡 Destaques da Carreira
+
+- ✅ **6M+ linhas** de código no Portal de Transparência RO
+- ✅ **97% de participação** em projeto crítico do estado
+- ✅ **10 meses** para entregar projeto estagnado há 2 anos
+- ✅ **70% de redução** em custos com sistemas de terceiros na Prefeitura de Jaru
+- ✅ **4 projetos** entregues simultaneamente em 2024 (diferentes stacks)
+- ✅ **2 semanas** para MVP completo de sistema bancário
+- ✅ **4 dias** para automação completa de WhatsApp
+
+---
+
+## 📫 Vamos conversar?
+
+Estou **disponível para oportunidades remotas** diversas ou presenciais em **Curitiba/PR**.  
+Experiência comprovada em **prazos apertados**, **sistemas complexos** e **entregas de alto impacto**.
+
+- 📧 Email: [gesaiasalvessouza@gmail.com](mailto:gesaiasalvessouza@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/gesaias-alves](https://linkedin.com/in/gesaias-alves)
+- 🌐 Site: [devcenterhub.com](https://devcenterhub.com)
+- 📱 WhatsApp: [(69) 99292-1994](https://api.whatsapp.com/send?phone=5569992921994)
+
+---
 
 <div align="center">
-  <a href="https://github.com/Gesaias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gesaias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gesaias&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+---
+
+<div align="center">
+  <sub>💡 <strong>Disponível para começar imediatamente</strong> | Especializado em assumir projetos complexos e entregar resultados</sub>
 </div>
