@@ -3,7 +3,7 @@
 **6+ anos criando soluções web e mobile** que resolvem problemas reais de grande escala.  
 Especializado em sistemas complexos com **React/Next.js**, **Flutter**, **NestJS** e infraestrutura moderna.
 
-📍 Rondônia, Brasil → 🎯 **Buscando oportunidades em Curitiba**  
+📍 Rondônia, Brasil → 🎯 **Buscando oportunidades Remotas e em Curitiba**  
 💼 Atualmente: Dev FullStack Sênior @ Pública Serviços RO
 
 ---
